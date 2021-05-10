@@ -24,7 +24,7 @@
 		<v.base.db>0.0.1</v.base.db>
 
 		<!-- MySQL -->
-		<v.mysql>6.0.6</v.mysql>
+		<v.mysql>8.0.16</v.mysql>
 
 		<!-- Javax Servlet Api Version --> <!-- base версията тук е 3.0.1 -> сменено заради ServletContext.getVirtualServerName() -->
 		<v.javax.servlet>3.1.0</v.javax.servlet>
