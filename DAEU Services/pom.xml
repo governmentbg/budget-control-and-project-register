@@ -37,7 +37,7 @@
 		<!-- get rid of web.axml -->
 		<failOnMissingWebXml>false</failOnMissingWebXml>
 
-		<jackson.version>2.9.8</jackson.version>
+		<jackson.version>2.9.10.7</jackson.version>
 
 		<!-- CXF -->
 		<cxf.version>3.2.10</cxf.version>
